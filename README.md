@@ -50,6 +50,9 @@ Once you understand what's going on, **ANSWER THE QUESTION IN THIS README FILE**
 Look in [`array.test.js`](test/array.test.js). This contains some tests for JavaScript's built-in Array methods.
 
 **What do the existing tests actually test (explain in english)?**
+the first test should test to see if the function adds 1 element (number 5) to the array and checks the new value passed into the array.
+
+the second test should add 1 element (number 1) to the array. test checks for the new length of the array - should be 5
 
 **Add a test for the `pop()` method.**
 Hint: You'll need _two_ assertions to fully test that it `pop()` works. Explain why you chose these assersions here.
