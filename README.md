@@ -88,7 +88,7 @@ Now let's do some TDD! Uncomment the `multiply()` test.
 **Add a method to the Coolculator so the test passes green** - done
 
 **Uncomment the `subtract()` test and write some code to make it green**
-Remember the process: Red / Green / Refactor - is there any refactoring you could do to clean up your code? - done, no refactoring done 
+Remember the process: Red / Green / Refactor - is there any refactoring you could do to clean up your code? 
 
 > 💡 **REMINDER**: Do you need to commit your answers to the questions above?
 

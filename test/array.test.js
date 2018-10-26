@@ -20,9 +20,11 @@ describe('Array', function() {
   describe('#pop()', function() {
     it('should remove the last item of the array', function() {
       var array = [1, 2, 3, 4]
-      array.pop()
+      var lastNumber = array.pop()
       expect(array).to.deep.equal([1, 2, 3])
+      expect(lastNumber).to.equal(4)
     })
+
     it('should alter the length properly', function() {
       var array = [1, 1, 1, 1]
       array.pop()
