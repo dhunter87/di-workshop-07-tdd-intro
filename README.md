@@ -57,6 +57,10 @@ the second test should add 1 element (number 1) to the array. test checks for th
 **Add a test for the `pop()` method.**
 Hint: You'll need _two_ assertions to fully test that it `pop()` works. Explain why you chose these assersions here.
 
+the first new test written checks the value of the last element in the array, after the pop function has run - passed
+
+the second new test written checks the lenght of the array after the pop function has run
+
 > 💡 **REMINDER**: Do you need to commit your answers to the questions above?
 
 ## Part 2: The Coolculator
