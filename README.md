@@ -69,26 +69,26 @@ Until now, we've been testing JavaScript's in-built functionality, which is kind
 
 Read The coolculator class and tests.
 
-**What methods does the Cooclulator currently implement?**
+**What methods does the Cooclulator currently implement?** the add function
 
-**Describe how the existing test works**
+**Describe how the existing test works**exsisting test works by calling the add function and passing in the perameters passed into the function/.
+then checks to see if the assertion is equal to the result.
 
 **Change a value in the `add()` test so it fails.**
-Once you've seen it fail, revert your change so it's green again.
-
+Once you've seen it fail, revert your change so it's green again. - DONE
 **Changethe implementation of `add()` so it always returns `1000`.**
-Once you've seen it fail, revert your change so it's green again.
+Once you've seen it fail, revert your change so it's green again. - Done
 
 Now let's do some TDD! Uncomment the `multiply()` test.
 
-**What do you expect to happen when you run your tests?**
+**What do you expect to happen when you run your tests?** - fail
 
-**What actually happened when you ran your tests?**
+**What actually happened when you ran your tests?** there is no function defined so it wont ever pass 
 
-**Add a method to the Coolculator so the test passes green**
+**Add a method to the Coolculator so the test passes green** - done
 
 **Uncomment the `subtract()` test and write some code to make it green**
-Remember the process: Red / Green / Refactor - is there any refactoring you could do to clean up your code?
+Remember the process: Red / Green / Refactor - is there any refactoring you could do to clean up your code? - done, no refactoring done 
 
 > 💡 **REMINDER**: Do you need to commit your answers to the questions above?
 
